@@ -1,0 +1,8 @@
+clang version 13.0.1
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+
+os: Arch linux
+Kernel: 5.16.10-zen
+--Terminal
