@@ -78,6 +78,13 @@ stack is O (log n) and is done n times in the worst case.
 The program gets the data to be compressed or decompressed into the
 stdin and outputs the corresponding data to the stdout.
 
+## Construction specification 
+The compiler used during creating the project: clang 14.0.6
+
+language: c++
+
+language standard: 13
+
 ## Setup 
 My script implementation is a command line program.
 For the purpose of preparing my solution, I have learned how to use ‘make’ so it
